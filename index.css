@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    font-family: Helvetica;
+}
+
+#toolbar{
+    background-color: #16161D;
+    color: aliceblue;
+    margin: 0px;
+    padding: 1px;
+    border: 0px;
+    display: flex;
+    align-items: center;
+}
+
+#toolbar p{
+    font-size: 24px;
+}
+
+#toolbar a{
+    color: aliceblue;
+    background-color: transparent;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: small;
+}
